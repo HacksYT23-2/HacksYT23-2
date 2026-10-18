@@ -1,6 +1,6 @@
 # Hey, I'm Jaimston 👋
 
-I run **OG-HacksYT** on YouTube, making videos about Linux, Hackintosh builds, and Android app development.
+I run **HacksYT23** on YouTube, making videos about Linux, Hackintosh builds, and Android app development.
 
 ## What I work on
 - 🐧 **Linux**: packaging, custom kernels, scripts, and distro tinkering

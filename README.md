@@ -9,3 +9,8 @@ I run **OG-HacksYT** on YouTube, making videos about Linux, Hackintosh builds, a
 
 ## Find me
 - 📺 YouTube: **https://www.youtube.com/@HacksYT23**
+
+
+<div align="center">
+  <img src="./Github.png" width="100%" alt="HacksYT23-2 Hellcat tech banner" />
+</div>
